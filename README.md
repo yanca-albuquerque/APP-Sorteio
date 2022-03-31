@@ -1,2 +1,2 @@
-# APP-Sorteio
-Projeto Kenzie
+APP Sorteio
+- Projeto Kenzie Academy
