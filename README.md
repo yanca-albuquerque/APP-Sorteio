@@ -1,3 +1,6 @@
-# APP Sorteio 
+# APP Sorteio ♾️
 
-- Projeto Kenzie Academy
+## Projeto Kenzie Academy
+
+Aplicativo de sortear nomes.
+Desenvolvido com HTML, CSS e JS.
