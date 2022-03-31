@@ -2,6 +2,6 @@
 
 ## Projeto Kenzie Academy
 
-Aplicativo de sortear nomes.
+Aplicativo para sortear nomes!
 
 Desenvolvido com HTML, CSS e JS.
